@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, world! 👋
+
+### My name is Elnar, i'm currently studying in CTU in Prgue.
 
 <!--
 **IamElnar/IamElnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
